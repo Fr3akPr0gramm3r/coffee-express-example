@@ -2,7 +2,7 @@
 
 #### Installation
 `
-git clone https://github.com/Fr3akPr0gramm3r/coffee-express-example/ \n
-cd coffee-express-example/ \n
-npm i && npm run start \n
+git clone https://github.com/Fr3akPr0gramm3r/coffee-express-example/\
+cd coffee-express-example/\
+npm i && npm run start\
 `
