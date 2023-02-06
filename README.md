@@ -1,4 +1,4 @@
-## Simple example of how to make simple hello-world app on top of express in CoffeScript 
+## Simple example of hello-world app in Coffee with ExpressJS
 
 #### Installation
 
